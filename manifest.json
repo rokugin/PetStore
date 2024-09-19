@@ -6,5 +6,5 @@
   "Description": "Enables trade item's for pet adoption.",
   "UniqueID": "rokugin.petstore",
   "EntryDll": "PetStore.dll",
-  "UpdateKeys": []
+  "UpdateKeys": [ "Nexus:28000" ]
 }
