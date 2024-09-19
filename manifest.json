@@ -1,0 +1,10 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "Pet Store",
+  "Author": "rokugin",
+  "Version": "1.0.0",
+  "Description": "Enables trade item's for pet adoption.",
+  "UniqueID": "rokugin.petstore",
+  "EntryDll": "PetStore.dll",
+  "UpdateKeys": []
+}
